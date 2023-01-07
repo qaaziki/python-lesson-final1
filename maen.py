@@ -52,6 +52,8 @@ else:
         Nema.getting_data(Nema.nem_books())
 
 
+print('Привет это тест из гита')
+
 
 
 # Nema.getting_data(Nema.nem_books())
